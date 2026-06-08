@@ -1,0 +1,6 @@
+{
+  "name": "Arasaka Tech Solutions",
+  "description": "Plataforma de seguridad enterprise, infraestructura militar y dominio de datos de Arasaka Corporation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
