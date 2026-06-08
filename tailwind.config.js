@@ -11,6 +11,11 @@ export default {
         'brand-muted': '#606880',
         'brand-surface': '#0D0D1A',
         'brand-black': '#080810',
+        'bg-dark': '#080810',
+        'surf-dark': '#13131b',
+        'surf-high': '#1f1f28',
+        'surf-highest': '#292932',
+        'steel': '#3a3f4b',
       },
       fontFamily: {
         orbitron: ['Orbitron', 'sans-serif'],
