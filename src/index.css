@@ -3,7 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@theme {
+:root {
   --font-orbitron: "Orbitron", sans-serif;
   --font-rajdhani: "Rajdhani", sans-serif;
   --font-barlow: "Barlow Condensed", sans-serif;
